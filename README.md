@@ -1,3 +1,4 @@
+<hr>
 <div>
   <b>Kang Min Sung</b>
 </div>
