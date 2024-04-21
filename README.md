@@ -1,5 +1,5 @@
 <div>
-  <p style="font-weight: bold">Kang Min Sung</p>
+  <b>Kang Min Sung</b>
 </div>
 <hr>
 <div>
