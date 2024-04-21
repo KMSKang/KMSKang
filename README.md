@@ -1,4 +1,15 @@
-<h1>Kang Min Sung👨‍💻💻🖥️⌨️</h1>
+<div>
+  <p style="font-weight: bold">Kang Min Sung</p>
+</div>
+<hr>
+<div>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
+  <div>
+    <img src="https://img.shields.io/badge/spring-000000?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=white">
+  </div>
+</div>
+<hr>
 <b>에스피지이 · 서비스 개발팀 · 대리</b> <br>
 2021년 8월 ~ 2023년 11월
 <hr>
