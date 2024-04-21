@@ -1,1 +1,8 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?style=for-the-badge&logo=openjdk&logoColor=white&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FJava-ED8B00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+에스피지이 · 서비스 개발팀 · 대리<br>
+2021년 8월 ~ 2023년 11월
+<hr>
+트래브릭스 · 서버 개발팀 · 사원<br>
+2019년 8월 ~ 2020년 9월
+<hr>
+[2018년 10월 ~ 2019년 04월]<br>
+비트캠프 · SpringFrameWork를 다루기 위한 java 과정
